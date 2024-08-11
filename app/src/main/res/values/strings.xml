@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile-Developer-Test</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_my_top_app_bar">MyTopAppBar</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="loading">Loading...</string>
+    <string name="empty_state">No users available.</string>
+</resources>
